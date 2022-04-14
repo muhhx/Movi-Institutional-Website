@@ -11,6 +11,7 @@ import Contato from "./pages/Contato";
 
 import { GlobalStyle, Wrapper } from "./globalStyles";
 import { ThemeProvider } from "styled-components";
+import "./styles.css"
 
 const theme = {
   colors: {
