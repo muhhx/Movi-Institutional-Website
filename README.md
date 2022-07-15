@@ -3,6 +3,8 @@
 <h4 align="center">
   <span>Website desktop preview:</span>
   <img alt="Readme" title="Readme" src="./github/PREVIEW_NAVIGATION.gif" />
+</h4>
+<h4 align="center">
   <span>Website responsive mobile preview:</span>
   <img alt="Readme" title="Readme" src="./github/PREVIEW_RESPONSIVE_MOBILE.gif" />
 </h4>
