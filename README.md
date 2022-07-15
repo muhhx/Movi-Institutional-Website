@@ -1,15 +1,16 @@
 <h1>Movi Institutional</h1>
 
 <h4 align="center">
+  <span>Website desktop preview:</span>
   <img alt="Readme" title="Readme" src="./github/PREVIEW_NAVIGATION.gif" />
+  <span>Website responsive mobile preview:</span>
   <img alt="Readme" title="Readme" src="./github/PREVIEW_RESPONSIVE_MOBILE.gif" />
 </h4>
 
 You can check all of the screens and gifs with previews by clicking [here](https://github.com/muhhx/Movi-Institutional-Website/tree/master/github)
 
 ## About this Project
-Institutional website for a Brazilian Real State company.
-
+Institutional website for a Brazilian Real State compan
 - **Live website:** <https://movi-institucional.netlify.app/>
 - Let's connect on LinkedIn: <https://www.linkedin.com/in/muhhx/>
 - Send me an email: muriloue@gmail.com
