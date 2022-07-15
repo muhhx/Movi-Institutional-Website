@@ -31,7 +31,7 @@ Institutional website for a Brazilian Real State compan
 $ git clone https://github.com/muhhx/Movi-Institutional-Website
 
 //CD into the created folder
-$ cd movi-institutional
+$ cd movi-institutional-website
 
 //Initialize the app to run locally
 $ npm run dev
